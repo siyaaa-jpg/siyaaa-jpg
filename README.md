@@ -1,6 +1,6 @@
 <h1 align="center">Hi everyone, I'm siya chugh</h1>
 <h3 align="center">I am a passionate fullstack developer and problem solver who thrives in domains like research, data science, ML, AI, and generative AI. I love to collaborate, constantly seek new challenges, and am dedicated to continuous learning and innovation. My goal is to leverage my technical expertise to make impactful contributions and drive meaningful advancements in technology</h3>
-<img align = "right alt = "coding" width = "400" src = "https://tenor.com/view/coding-girl-gif-2332171326726785246">
+<img align ="right" alt ="coding" src ="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siyaaa-jpg&label=Profile%20views&color=0e75b6&style=flat" alt="siyaaa-jpg" /> </p>
 
